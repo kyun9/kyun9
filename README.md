@@ -1,10 +1,10 @@
-<center> <h1> 안녕하세요! 👋 저는 현입니다. 👨‍💻
+<center> <h1> 안녕하세요! 👋 저는 현입니다. 👨‍💻</h1><center>
 
 
 
-<center>현재 대학교를 막 졸업하고,
+<center>현재 대학교를 막 졸업하고,</center>
 
-<center>자바 웹 & 서버 개발자 준비중인 <strong>취업준비생</strong>입니다!
+<center>자바 웹 & 서버 개발자 준비중인 <strong>취업준비생</strong>입니다!</center>
 
 
 
