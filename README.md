@@ -7,6 +7,8 @@
 
 ### If you want to see more... here is link: [`resume`](https://kyun9.github.io/)
 
+<hr>
+
 
 ### :telephone_receiver:contact
 
