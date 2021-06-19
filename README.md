@@ -2,7 +2,7 @@
 
 <br>
 
-자바 웹 & 서버 전문 개발자를 꿈꾸고 있는 **금융IT 개발자**:baby_chick:입니다.
+자바 웹 & 서버 전문 개발자를 꿈꾸고 있는 **개발자**:baby_chick:입니다.
 <br>
 
 ### If you want to see more... here is link: [`resume`](https://kyun9.github.io/)
