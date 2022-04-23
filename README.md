@@ -41,7 +41,7 @@
   </a>&nbsp;
   <a href="mailto:h.kyung108@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=h.kyung108@gmail.com"/>
-  </a>
+  </a>&nbsp;
   <a href="mailto:gusl108@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=gusl108@naver.com"/>
   </a>
